@@ -35,7 +35,7 @@ Daca lipseste parametrul `path_imagine_format_propriu` atunci fisierul unde form
 3. Decodarea si randarea imaginii.
 
 ```Bash
-python3 encode.py %path_imagine_format_propriu%
+python3 decode.py %path_imagine_format_propriu%
 ```
 
 ### Exemplu de folosire
